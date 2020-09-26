@@ -1,0 +1,8 @@
+Este o platforma destinata programatorilor profesionisti si entuziasti.
+Ca orice platforma are o parte de Login/Register.
+Odata ce tiai facut cont, poti sa adresezi intrebari legate de o problema pe care ai intampinat-o in muca ta si se vor gasi alti useri care sa iti raspunda.
+Poti sa raspunzi si tu la randul tau la intrebarile celorlalti useri pentru a-ti creste reputatia.
+Raspunsurile bune, sunt votate de ceilalti useri si se vor ridica in partea de sus a postarii.
+Scorul tau de "reputatie" creste atunci cand mai multi useri iti voteaza raspunsul ca fiind corect. Cu o reputatie mai mare incepi sa primesti treptat anumite privilegii.
+StackOverflow are un sistem prin care orice user poate sa caute prin toata baza de date de intrebari postate vreodata pe platforma, ceea ce ajuta foarte mult la eliminarea
+intrebarilor duplicate/redundante. Pentru a face mai usoara gasirea unor subiecte de intrebari, acestia mai folosesc tag-uri.
